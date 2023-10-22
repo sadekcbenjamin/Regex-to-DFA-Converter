@@ -1,6 +1,6 @@
 ## Regex to DFA Converter
 
-A Python implementation to convert Regular Expressions (regex) into Deterministic Finite Automatons (DFA).
+A Python implementation to convert Regular Expressions (regex) into Deterministic Finite Automatons (DFA). For Pitt CS1502
 
 ### Overview
 
